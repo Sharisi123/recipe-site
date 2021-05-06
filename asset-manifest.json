@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vlad-recipe/static/css/main.b554f253.chunk.css",
+    "main.js": "/vlad-recipe/static/js/main.ae1ec00f.chunk.js",
+    "main.js.map": "/vlad-recipe/static/js/main.ae1ec00f.chunk.js.map",
+    "runtime-main.js": "/vlad-recipe/static/js/runtime-main.372657ea.js",
+    "runtime-main.js.map": "/vlad-recipe/static/js/runtime-main.372657ea.js.map",
+    "static/js/2.4c31a43a.chunk.js": "/vlad-recipe/static/js/2.4c31a43a.chunk.js",
+    "static/js/2.4c31a43a.chunk.js.map": "/vlad-recipe/static/js/2.4c31a43a.chunk.js.map",
+    "index.html": "/vlad-recipe/index.html",
+    "static/css/main.b554f253.chunk.css.map": "/vlad-recipe/static/css/main.b554f253.chunk.css.map",
+    "static/js/2.4c31a43a.chunk.js.LICENSE.txt": "/vlad-recipe/static/js/2.4c31a43a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.372657ea.js",
+    "static/js/2.4c31a43a.chunk.js",
+    "static/css/main.b554f253.chunk.css",
+    "static/js/main.ae1ec00f.chunk.js"
+  ]
+}
